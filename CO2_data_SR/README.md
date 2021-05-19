@@ -4,14 +4,6 @@ This is the README file for the dataset used in "Machine Learning the Carbon foo
 
 The files: 
 
-1) "chinaprice.csv"
-2) "usaprice.csv"
-3) "russiaprice.csv" 
-
-Contain the historical prices used for the computation of the electricity price in Russia, China, and U.S.A. The three files are then merged into "electricity.xlsx"
-
-The files: 
-
 1) "difficulty.csv"
 2) "hashrate.csv"
 3) "marketprice.csv"
